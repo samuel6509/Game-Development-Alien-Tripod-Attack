@@ -1,2 +1,3 @@
-# Game-Development-Alien-Tripod-Attack
-Project me &amp; another student made built upon one of the lab room exercises we were given, written in c# using unity. Scripts &amp; features were created by either one of us &amp; is made clear who created what in the video (found on YouTube) and the source code.
+Route to the directory containing all the scripts I wrote for my assets: Assets/SW734 Scripts
+
+Youtube link to our project video: https://youtu.be/FfA3QxyZCxY
